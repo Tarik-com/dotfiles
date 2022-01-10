@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = elkhouryt07@gmail.com
+	name = Tarik El Khoury
